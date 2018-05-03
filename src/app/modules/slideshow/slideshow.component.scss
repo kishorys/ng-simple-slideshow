@@ -10,7 +10,7 @@ $border-color: darken(#FFF, 5%);
 }
 
 .slideshow-container {
-  position: relative;
+  position: inherit;
   display: block;
   margin: auto;
   height: 100%;
